@@ -1,1 +1,0 @@
-java -jar whatdo.jar
